@@ -1,7 +1,7 @@
 %SDNN的主函数  main（）
 %首先网络输入参数
-clc
-clear
+%clc
+%clear
 
 %输入图片路径
 global spike_times_train
